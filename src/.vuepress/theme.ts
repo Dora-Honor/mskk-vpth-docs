@@ -7,13 +7,13 @@ export default hopeTheme({
   hostname: "https://vuepress-theme-hope-docs-demo.netlify.app",
 
   author: {
-    name: "Mr.Hope",
-    url: "https://mister-hope.com",
+    name: "Dora Honor",
+    url: "https://dora-honor.github.io/",
   },
 
   logo: "https://theme-hope-assets.vuejs.press/logo.svg",
 
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
+  repo: "Dora-Honor/mskk-vpth-docs",
 
   docsDir: "src",
 
@@ -47,6 +47,7 @@ export default hopeTheme({
 
   // 此处开启了很多功能用于演示，你应仅保留用到的功能。
   markdown: {
+    alert: true,
     align: true,
     attrs: true,
     codeTabs: true,
