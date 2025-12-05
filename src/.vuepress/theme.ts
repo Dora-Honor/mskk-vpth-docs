@@ -16,6 +16,10 @@ export default hopeTheme({
   repo: "Dora-Honor/mskk-vpth-docs",
 
   docsDir: "src",
+  docsRepo: "Dora-Honor/mskk-vpth-docs",
+  docsBranch: "main",
+
+  fullscreen: true,
 
   // 导航栏
   navbar,
