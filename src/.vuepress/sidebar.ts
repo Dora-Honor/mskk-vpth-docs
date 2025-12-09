@@ -4,6 +4,7 @@ export default sidebar({
   "/": [
     "",
     "portfolio",
+    "qingshan",
     {
       text: "案例",
       icon: "laptop-code",
