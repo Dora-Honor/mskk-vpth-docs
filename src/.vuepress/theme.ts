@@ -13,6 +13,8 @@ export default hopeTheme({
 
   logo: "https://theme-hope-assets.vuejs.press/logo.svg",
 
+  favicon: "/favicon.ico",
+
   repo: "Dora-Honor/mskk-vpth-docs",
 
   docsDir: "src",
