@@ -1,4 +1,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://vuepress-theme-hope-docs-demo.netlify.app/mskk-vpth-docs/sitemap.xml
+Sitemap: https://vpthdocs.dorahonor.me/sitemap.xml
