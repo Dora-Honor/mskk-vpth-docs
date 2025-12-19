@@ -4,11 +4,11 @@ import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
 
 export default hopeTheme({
-  hostname: "https://vuepress-theme-hope-docs-demo.netlify.app",
+  hostname: "https://vpthdocs.dorahonor.me",
 
   author: {
     name: "Dora Honor",
-    url: "https://dora-honor.github.io/",
+    url: "https://dorahonor.me",
   },
 
   logo: "https://theme-hope-assets.vuejs.press/logo.svg",
