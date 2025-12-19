@@ -4,7 +4,7 @@ import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
 
 export default hopeTheme({
-  hostname: "https://vpthdocs.dorahonor.me",
+  hostname: "https://vpthdocs.dorahonor.me/",
 
   author: {
     name: "Dora Honor",
