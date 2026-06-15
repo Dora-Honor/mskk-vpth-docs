@@ -23,19 +23,19 @@ jobs:
       - name: 设置 pnpm
         uses: pnpm/action-setup@v4
         with:
-          version: 10.26.0
+          version: latest
 
 
       - name: 设置 Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: 24.12.0
+          node-version: 24.16.0
           cache: pnpm
 
       - name: 安装依赖
         run: |
           corepack enable
-          pnpm install --frozen-lockfile
+          pnpm install --frozen-lockfile --allow-scripts
 
       - name: 构建文档
         env:
